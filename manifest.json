@@ -1,0 +1,13 @@
+{
+    "name": "jogodavelha2",
+    "start_url": "/jogodavelha2",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/jogoapp.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
